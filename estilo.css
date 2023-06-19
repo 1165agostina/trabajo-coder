@@ -1,3 +1,9 @@
+
+/* font-family: 'Playfair Display', serif; */
+
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
 body{
     background-color: #EDBBD8;
     margin: 25px;
@@ -14,8 +20,17 @@ ul li{
     list-style: none;
  } 
  p{
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
 
+ }
+ h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+
+ }
+ h2,h3,h4,h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
  footer{
      margin: 25px;
