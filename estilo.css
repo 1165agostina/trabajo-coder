@@ -79,7 +79,7 @@ ul li{
         grid-template-columns: repeat(2, 1fr);
 
     }
-
+.videos{ justify-content: center;}
     }
 
 
